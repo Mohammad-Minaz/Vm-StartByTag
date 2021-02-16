@@ -1,4 +1,4 @@
-workflow Vm-StartByTag 
+workflow Vm-StopByTag 
 { 
         Param( 
         [Parameter(Mandatory=$true)] 
